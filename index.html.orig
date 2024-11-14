@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+		<link rel="stylesheet" href="css/styles.css">
+		<title>Курc - Git и GitHub</title>
+	</head>
+
+	<body>
+		<h1 class="title">Практикуемся с Git</h1>
+<<<<<<< HEAD
+		<p class="qoute">На этой странице будет много интересного контента по Git и GitHub</p>
+=======
+		<p class="description">На этой странице будет много интересного контента по Git и GitHub</p>
+>>>>>>> conflict/merge-editor
+		<a href="pages/about.html">Перейти на страницу "О курсе"</a>
+	</body>
+
+</html>
