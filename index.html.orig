@@ -9,8 +9,12 @@
 	</head>
 
 	<body>
-		<h1 class="title">Это заголовок первого уровня</h1>
+		<h1 class="title">Практикуемся с Git</h1>
+<<<<<<< HEAD
+		<p class="qoute">На этой странице будет много интересного контента по Git и GitHub</p>
+=======
 		<p class="description">На этой странице будет много интересного контента по Git и GitHub</p>
+>>>>>>> conflict/merge-editor
 		<a href="pages/about.html">Перейти на страницу "О курсе"</a>
 	</body>
 
